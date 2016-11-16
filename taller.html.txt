@@ -6,7 +6,7 @@ tALLER GITHUB
 </head>
 <body>
 
-<P>HOLA MUNDO</P>
+
 </body>
 
 </html>
